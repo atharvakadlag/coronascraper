@@ -1,5 +1,5 @@
 # Coronascraper
-A GUI for getting realtime data of coronavirus
+A GUI for getting realtime data of Coronavirus Cases in differant countries
 ## Requirements
 > [poetry](https://python-poetry.org/docs/)
 ## Setting Up  
