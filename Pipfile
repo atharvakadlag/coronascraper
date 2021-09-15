@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pyqt5 = "*"
+requests = "*"
+bs4 = "*"
+html5lib = "*"
 
 [dev-packages]
 
